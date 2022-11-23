@@ -1,7 +1,7 @@
 Clara Maine Bachelor Thesis Repository
 =====================================
 
-This repository is a modified and extended version of the T-RECS (Tool for RecSys Simulation) library, which was developed between March and June 2022 by Clara Maine.
+This repository is a modified and extended version of the T-RECS (Tool for RecSys Simulation) library, originally developed by Eli Lucherini, Matthew Sun, and Amy Winecoff. The extended version facilitates and tests the impact of **user-directed preference shift** within recommender systems and was developed between March and June 2022 by Clara Maine for her Bachelor's thesis at Radboud University.
 
 Instructions for installing and runnning the basic t-recs build can be found in t-recs-installation-README.rst. 
 To reproduce the experiments from this thesis, this repository can be cloned and this extended library can be used locally. The main file for running the experiments and generating the plots can be found in 'algoconfounding/creator_sim.py' and 'algocounfounding/fixed_sim.py'.
